@@ -5,7 +5,7 @@ Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que e
 
 
 <p align="left">
-        <img src="https://profile-counter.glitch.me/lucas-yuuki/count.svg" />
+<img src="https://profile-counter.glitch.me/lucas-yuuki/count.svg" />
     <a href="https://github.com/lucas-yuuki?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
