@@ -7,7 +7,7 @@ Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que e
     <img 
         alt="Total de Vizualizações" 
         title="Total de Vizualizações Github" 
-        src="https://komarev.com/ghpvc/?username=lucas-yuuki&style=for-the-badge&color=ffa500&labelColor=cc8400"
+        src="https://komarev.com/ghpvc/?username=lucas-yuuki&label=PROFILE%20VIEWS&style=for-the-badge&color=ffa500&labelColor=cc8400&cacheSeconds=0"
         />
     <a href="https://github.com/lucas-yuuki?tab=repositories&sort=stargazers">
         <img 
