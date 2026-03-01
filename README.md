@@ -4,12 +4,12 @@ Me chamo Lucas Yuuki, tenho 21 anos. Sou estudante de engenharia de controle e a
 Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que envolvem desde mecânica clássica (como sistemas massa–mola e suspensão veicular) até modelos preditivos (Ciência de dados) aplicados a dados reais.
 
 <p align="left">
-    </p>
     <img 
         alt="Total de Vizualizações" 
         title="Total de Vizualizações Github" 
         src="https://komarev.com/ghpvc/?username=lucas-yuuki&label=PROFILE%20VIEWS&style=for-the-badge&color=ffa500&labelColor=cc8400"
         />
+    </p>
     <a href="https://github.com/lucas-yuuki?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
