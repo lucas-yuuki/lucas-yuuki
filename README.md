@@ -3,9 +3,9 @@
 Me chamo Lucas Yuuki, tenho 21 anos. Sou estudante de engenharia de controle e automação na UFRGS com interesse em modelagem matemática, análise de dados e simulação de sistemas físicos.
 Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que envolvem desde mecânica clássica (como sistemas massa–mola e suspensão veicular) até modelos preditivos (Ciência de dados) aplicados a dados reais.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-yuuki&show_icons=true&theme=tokyonight)
 
 <p align="left">
+        <img src="https://profile-counter.glitch.me/lucas-yuuki/count.svg" />
     <a href="https://github.com/lucas-yuuki?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
